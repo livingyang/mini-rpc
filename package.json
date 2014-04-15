@@ -1,0 +1,26 @@
+{
+  "name": "mini-rpc",
+  "version": "0.1.0",
+  "description": "mini-rpc is a simply json rpc for node/browser.",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/livingyang/mini-rpc.git"
+  },
+  "keywords": [
+    "json",
+    "mini",
+    "rpc"
+  ],
+  "author": "livingyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/livingyang/mini-rpc/issues"
+  },
+  "homepage": "https://github.com/livingyang/mini-rpc",
+  "devDependencies": {
+    "mocha": "~1.18.2"
+  }
+}
