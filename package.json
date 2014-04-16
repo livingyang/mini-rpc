@@ -21,6 +21,13 @@
   },
   "homepage": "https://github.com/livingyang/mini-rpc",
   "devDependencies": {
-    "mocha": "~1.18.2"
-  }
+    "mocha": "~1.18.2",
+    "sinon": "~1.9.1",
+    "should": "~3.3.0"
+  },
+  "main": "mini-rpc.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
 }
