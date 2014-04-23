@@ -22,4 +22,4 @@ example (peer to peer)
 	<-- ["result", "1", 3] # a notification with id will return result
 
 	--> ["id": "2", "add", 1]
-	<-- ["error", 2, "add function miss param"] # error notificaion
+	<-- ["error", "2", "add function miss param"] # error notificaion
